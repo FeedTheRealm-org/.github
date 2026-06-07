@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/u/231922724?s=200&v=4" width="100"/>
+  <img src="https://avatars.githubusercontent.com/u/231922724?s=200&v=4" width="160"/>
 </p>
 
 # Feed the Realm
