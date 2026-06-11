@@ -10,14 +10,14 @@ An MMO game where players explore countless worlds created by the community. Wit
 
 | Repository | Description |
 |---|---|
-| [backoffice-page](https://github.com/FeedTheRealm-org/backoffice-page) | Admin dashboard for platform management |
-| [core-service](https://github.com/FeedTheRealm-org/core-service) | Core service as non-game backend for Feed the Realm |
-| [Documents](https://github.com/FeedTheRealm-org/Documents) | LaTeX-based project documentation |
 | [game](https://github.com/FeedTheRealm-org/game) | Unity-based game client for Feed the Realm |
+| [world-editor](https://github.com/FeedTheRealm-org/world-editor) | Front-end client for map editing and uploading |
+| [core-service](https://github.com/FeedTheRealm-org/core-service) | Core service as non-game backend for Feed the Realm |
+| [shared-unity-package](https://github.com/FeedTheRealm-org/shared-unity-package) | Shared package with utilities used across game and editor |
 | [IaC](https://github.com/FeedTheRealm-org/IaC) | IaC repository that uses terraform to declare the Feed the Realm AWS infrastructure |
 | [landing-page](https://github.com/FeedTheRealm-org/landing-page) | Repository for the Feed The Realm landing page! |
-| [shared-unity-package](https://github.com/FeedTheRealm-org/shared-unity-package) | Shared package with utilities used across game and editor |
-| [world-editor](https://github.com/FeedTheRealm-org/world-editor) | Front-end client for map editing and uploading |
+| [backoffice-page](https://github.com/FeedTheRealm-org/backoffice-page) | Admin dashboard for platform management |
+| [Documents](https://github.com/FeedTheRealm-org/Documents) | LaTeX-based project documentation |
 
 ## Team
 
